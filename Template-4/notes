@@ -1,0 +1,9 @@
+::before & ::after Dimention didn't work in block without P-absolute 
+but work in flex 
+[2] -- inline Element --   margin-left dont work anless the father was aflex or we have to use display:block on the element
+[3] -- Table --  border-spacing:0 => no space between "td"s 
+                 overflow-x :auto => scrolling under the min-width of table 
+[4] --overflow -- when the parent doesn't hase a fixed width and the child (or child of the child ) had abigger width than the parent it well incease the width of the parent unless we use the over-flow on each parent and spceficly ditrmind which parent well do the scroll bar
+[5] -- accent-color -- it // Specifies thee color of user interface elements/controls like checkboxes, radio buttons, range 
+                        and progress elements 
+                        accent-color: auto|color|initial|ingerit;
